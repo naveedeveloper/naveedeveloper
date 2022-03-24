@@ -10,6 +10,6 @@
 
 
 
-<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyubNaveed&layout=compact)](https://github.com/TayyubNaveed/github-readme-stats)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayyubNaveed)](https://github.com/TayyubNaveed/github-readme-stats">
 
 <img src="https://github-readme-stats.vercel.app/api?username=TayyubNaveed&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
