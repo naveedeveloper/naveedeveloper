@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently doing BS(CS) from NUCES-FAST, Peshawar.
 - 🌱 I’m currently working on my final year project.
-- 📫 How to reach me: <b> saneel1720403@gmail.com </b>
+- 📫 How to reach me: <b> naveedeveloper@gmail.com </b>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love to code. 
 
