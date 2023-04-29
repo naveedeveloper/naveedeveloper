@@ -1,7 +1,8 @@
 ## Hi, I'm Tayyub Naveed! 👋
 
+- ⚡ I'm a computer science student who is passionate about software development and open source.
+- 🌱 I love to learn and explore new technologies, and I'm always looking for ways to improve my skills.
 - 🔭 I’m currently doing BS(CS) from FAST-NUCES, Peshawar.
-- 🌱 I’m currently working on my final year project.
 - 📫 How to reach me: <b> naveedeveloper@gmail.com </b>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love to code. 
