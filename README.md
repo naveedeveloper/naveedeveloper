@@ -1,6 +1,8 @@
-## Hi, I'm Tayyub Naveed! 👋
+<h1 align="center">Hi 👋, I'm Tayyub Naveed</h1>
+<h3 align="center">Computer Science Student from FAST NUCES</h3>
 
-- ⚡ I'm a computer science student who is passionate about software development and open source.
+<p align = "center"> <img src = "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt = "gif" width = "300px"></p>
+
 - 🌱 I love to learn and explore new technologies, and I'm always looking for ways to improve my skills.
 - 🔭 I’m currently doing BS(CS) from FAST-NUCES, Peshawar.
 - 📫 How to reach me: <b> naveedeveloper@gmail.com </b>
