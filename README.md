@@ -9,37 +9,40 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love to code. 
 
-## Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-
-## Tools
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/php/php.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" >
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" >
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<br><br>
-
-
-<a href="https://github.com/naveedeveloper/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveedeveloper&layout=default&theme=radical&buefy&hide_border=true" /></a>
-
-<a href="https://github.com/naveedeveloper/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=naveedeveloper&show_icons=true&include_all_commits=true&theme=radical&buefy&hide_border=true" height="270px" alt="naveedeveloper's github stats" ></a>
+<h2>LANGUAGES</h2>
+<p> 
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff" alt="CSS"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=fff" alt="C++" width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=fff" alt="C" width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-sharp-99CC00?logo=sharp&logoColor=fff" alt="sharp" width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff" alt="JavaScript"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff" alt="html"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff" alt="php" width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-Java-e34f26?Color=fff" alt="Java"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-MySql-4479A1?logo=MySql&logoColor=fff" alt="MySql" width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-Assembly Language-e34f26?Color=fff" alt="Assembly Language"width="fixed-content"height="25">
+</p>
+<h2>FRAMEWORKS</h2>
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff" alt="React"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-laravel-FF2D20?logo=laravel&logoColor=fff" alt="laravel"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=fff" alt="Bootstrap"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-.NET-512BD4?logo=.NET&logoColor=fff" alt=".NET"width="fixed-content"height="25">
+  <img src="https://img.shields.io/badge/-flask-512BD4?logo=flask&logoColor=fff" alt="flask"width="fixed-content"height="25">
+</p>
+<h2>CONNECT WITH ME</h2>
+<p> 
+   <a href = "https://www.linkedin.com/in/tayyub-naveed">
+    <img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=fff" alt="linkedin"width="fixed-content"height="25"/>
+  </a>
+  
+  <a href = "mailto: naveedeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"width="fixed-content"height="25"/)
+ </a>
+ </p>
+  <h2>GITHUB STATS</h2>
+<p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=naveedeveloper&count_private=true&show_icons=true&theme=radical&buefy)](https://github.com/naveedeveloper" width="fixed-content"height="210">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveedeveloper&langs_count=11&layout=compact&hide=html,css&theme=radical&buefy)](https://github.com/naveedeveloper" width="fixed-content"height="210">
+</p>
