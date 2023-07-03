@@ -3,11 +3,14 @@
 
 <p align = "center"> <img src = "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt = "gif" width = "300px"></p>
 
-- 🌱 I love to learn and explore new technologies, and I'm always looking for ways to improve my skills.
-- 🔭 I’m currently doing BS(CS) from FAST-NUCES, Peshawar.
-- 📫 How to reach me: <b> naveedeveloper@gmail.com </b>
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Love to code. 
+- 🔭 Recent graduate in Computer Science from FAST-NUCES.
+- 🌱 Passionate about learning and exploring new technologies.
+- 💻 Actively seeking opportunities to collaborate on exciting projects.
+- ⚡ Fun fact: I have an insatiable love for coding and solving complex problems.
+- 🚀 Constantly looking for ways to improve my skills and expand my knowledge.
+- 👨‍💻 Open to constructive feedback and always eager to grow as a developer.
+- 📫 Reach me at naveedeveloper@gmail.com for any inquiries or collaboration.
+
 
 <h2>LANGUAGES</h2>
 <p> 
