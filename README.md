@@ -4,6 +4,17 @@
 
 I'm a Data Scientist passionate about using AI and machine learning to gain insights from data. Dedicated to making meaningful contributions in the dynamic field of data science and eager to explore new challenges in technology.
 
+## Connect with me
+<p align='center'>
+  <a href = "https://www.linkedin.com/in/tayyub-naveed">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+   
+  <a href = "mailto: naveedeveloper@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/)
+  </a>   
+</p>
+
 
 ## Programming Languages
 <p align='center'>
@@ -72,16 +83,4 @@ I'm a Data Scientist passionate about using AI and machine learning to gain insi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveedeveloper&langs_count=11&layout=compact&hide=html,css&theme=radical&buefy)](https://github.com/naveedeveloper" width="fixed-content"height="210">
 </p>
 
-## Connect with me
- </p>
-  <p align='center'>
- <a href = "https://www.linkedin.com/in/tayyub-naveed">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
-  
- <a href = "mailto: naveedeveloper@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/)
- </a>
-   
-</p>
-</p>
+
