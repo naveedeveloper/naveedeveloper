@@ -73,6 +73,8 @@ I'm a Data Scientist passionate about using AI and machine learning to gain insi
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%23007D8A.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+
 
 </p>
 
